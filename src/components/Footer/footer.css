@@ -1,0 +1,65 @@
+.kfclogofooter{
+    width: 120px;
+    margin-left: 300px;
+}
+
+.socialMediaIcons img{
+    width: 50px;
+    border-radius: 50%;
+    
+
+}
+.footerLinks{
+    display: flex;
+    align-items: center;
+    
+}
+
+.imgYoutube{
+    margin-left: 100px;
+}
+
+.imgInsta{
+    margin-left: 15px;
+}
+
+.imgFacebook{
+    margin-left: 15px;
+}
+.imgTwitter{
+    margin-left: 15px;
+}
+.footerWrapper{
+    background-color:rgb(36, 35, 35);
+}
+.footdiv{
+    display: flex;
+    margin-top: 30px;
+
+}
+.one ul{
+    list-style-type:none;
+
+}
+
+.footdiv a{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+
+.footdiv a:hover{
+    color: red;
+}
+.three{
+    margin-left: 20px;
+}
+.four img{
+    width: 150px;
+    margin-left: 60px;
+    border-radius: 10px;
+    
+}
+
+             
